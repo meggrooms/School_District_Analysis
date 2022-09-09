@@ -61,18 +61,24 @@ School size summary
   <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/School_Size_Summary.png">
   <br>
   
+Test scores by per capita budget   
    <BR>
+   <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Scores_per_capita.png">
+    
 <BR>
   
+Thomas High School is a charter school, which has significantly higher passing rates, with a 36 point difference in overall passing. 
+ <BR>
+ <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/school_type.png">
+  <BR>
+ 
 An example of creating a database for scores by grade
 
   <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/by_grade_DF.png">
   <BR>
-  
-
-
+   
 
  
-  -----There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:-----
- 
+ ## How the school district metrics were affected by the changes in the data.
+<BR>
+• There was a dramatic shift in Thomas High School's passing rate, from 91% to 65%

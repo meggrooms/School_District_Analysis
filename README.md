@@ -37,8 +37,37 @@ Initially my job was to rank 15 Colorado high schools based on student performan
 <br>
 
 ### How School Distrist Metrics Changed
- • The original metric for the school district summary shows nominally elevated passing scores as compared to the adjusted summary that reflects the exclusion of the incorrect 9th grade scores.
+ 
+ -----There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
+Summary:-----
+ 
+• The original metric for the school district summary shows nominally elevated passing scores as compared to the adjusted summary that reflects the exclusion of the incorrect 9th grade scores.
 
 <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Orig_District_Summary.png">
 
  <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Adj_District_Summary.png">
+ <BR>
+ 
+ • Thomas High School originally score in the top 5 schools with a 91% pass rate. The school board felt this reflected either a testing error or academic integrity issue so I changed the data to reflect 10th-12th grade as a new baseline. The result was an incredible drop in school rank from the top 5 to the bottom 5.
+
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/01_top_schools.png">
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/01_bottom_schools.png">
+ 
+ 
+ •
+ 
+ 
+ 
+ •
+ 
+ 
+ 
+ •
+ 
+ 
+ 
+ •
+ 
+ 
+ 
+ •

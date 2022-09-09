@@ -85,6 +85,12 @@ An example of creating a database for scores by grade
  
  ## How the school district metrics were affected by the changes in the data.
 <BR>
-• There was a dramatic shift in Thomas High School's passing rate, from 91% to 65%
+• There was a dramatic shift in Thomas High School's passing rate, from 91% to 65%.
 <BR>
-•Thomas High School dropped from the top 5 schools to the lower
+• Thomas High School dropped from the top 5 schools to the middle of the pack.
+<BR> 
+• Ninth grade scores from Thomas High School are now represented by NaN, a null value.
+<BR>
+• 
+
+•Schools of small and medium size perform at the same rate, while large schools overall passing rates drop by 35%

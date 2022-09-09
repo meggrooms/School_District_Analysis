@@ -54,25 +54,25 @@ Thomas High School's original & adjusted performance
 <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/01_top_schools.png">
 <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/01_bottom_schools.png">
  <BR>
- 
- ### Math and Reading Scores by Grade Levels
-Metric 3
+  
+  
+School size summary
+  <BR>
+  <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/School_Size_Summary.png">
+  <br>
+  
+   <BR>
 <BR>
-•
- 
- 
- 
- •
+  
+An example of creating a database for scores by grade
+
+  <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/by_grade_DF.png">
+  <BR>
+  
+
+
+
  
   -----There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 Summary:-----
  
- •
- 
- 
- 
- •
- 
- 
- 
- •

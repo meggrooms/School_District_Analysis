@@ -39,4 +39,9 @@ Initially my job was to rank 15 Colorado high schools based on student performan
 ### How School Distrist Metrics Changed
 The original metric for the school district summary
 
-
+<
+<BR>
+<BR>
+  
+ The adjusted metric for the school district summary
+ <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Adj_District_Summary.png">

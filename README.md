@@ -37,11 +37,8 @@ Initially my job was to rank 15 Colorado high schools based on student performan
 <br>
 
 ### How School Distrist Metrics Changed
-The original metric for the school district summary
+The original metric for the school district summary shows nominally elevated passing scores as compared to the adjusted summary that reflects the exclusion of the incorrect 9th grade scores.
 
-<
-<BR>
-<BR>
-  
- The adjusted metric for the school district summary
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Orig_District_Summary.png">
+
  <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Adj_District_Summary.png">

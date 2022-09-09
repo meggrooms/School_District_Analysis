@@ -46,12 +46,7 @@ Thomas High School's original & adjusted performance
   <BR>
    <BR>
   
-Thomas High School's original school ranking was #2 of 15
-  <br>
-  <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Top_Schools.png">
- <BR>
-  <BR>
-   <BR>
+
   
 School size summary
   <BR>
@@ -94,3 +89,29 @@ An example of creating a database for scores by grade
 • 
 
 •Schools of small and medium size perform at the same rate, while large schools overall passing rates drop by 35%
+ <BR><BR><BR>
+ 
+ 
+### How is the district summary affected?
+The original metrics showed a significant drop in reading scores.
+<BR>
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Orig_District_Summary.png">
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Adj_District_Summary.png">
+<BR>
+ <BR>
+### How is the school summary affected?
+After re-running the school summary data, it's clear that Thomas High School's overall passing percentage was much lower.
+ <Br>
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/before_school_summary.png">
+  <BR>
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/after_thomas_school_summ.png">
+   <BR>
+   <BR>
+
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Thomas High School's original school ranking was #2 of 15. Replacing the scores result in a ranking solidly in the middle of the pack
+  <br>
+  <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Top_Schools.png">
+ <BR>
+  <BR>
+   <BR>

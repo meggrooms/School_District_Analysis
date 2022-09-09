@@ -1,3 +1,5 @@
+<img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/istockphoto-1159764918-612x612.jpeg">
+
 # School District Analysis
 Standardized Test Analysis, the Correlation Between Test Scores and Budget, and Calculating for Academic Integrity
 
@@ -51,7 +53,7 @@ After re-running the school summary data, it's clear that Thomas High School's o
     
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Thomas High School's original school ranking was #2 of 15. Replacing the scores result in a ranking solidly in the middle of the pack
+Thomas High School's original school ranking was #2 of 15. Replacing the scores result in a ranking solidly in the middle of the pack.
   <br>
   <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Top_Schools.png">
  <BR>
@@ -64,6 +66,8 @@ Thomas High School's original school ranking was #2 of 15. Replacing the scores 
      <BR>
       Originally Thomas High School has an 83.6% average math score and 83.7% reading for the 9th grade tests. These scores have been replaced with NaN, a null value.
     <BR>
+     <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/nan.png">
+     <BR>
      <BR>
       
       
@@ -94,3 +98,13 @@ Thomas High Schools spends $638 per student, which typically produces an overall
    <BR><BR>
     
 ### Summarize four changes in the updated analysis after ninth grade scores replaced with NaNs.
+ 
+• THS's passing percentage changed dramatically before & after nullifying 9th grade scores.
+<BR>
+• THS's school size (medium) is associated with higher passing percentages, THS performs similarly to a large school.
+<BR>
+• In their respective funding bracket, THS performs much lower than other schools.
+<BR>
+•THS's ranking dropped from #2 of 15 to the bottom half.
+     
+ 

@@ -24,13 +24,19 @@ Initially my job was to rank 15 Colorado high schools based on student performan
 
 
 ### Topics Covered
-• Jupyter Notebook
-• Read an external CSV file into a DataFrame.
-• Format a DataFrame column
-• Determine data types of row values
-• Retrieve data from specific columns
-• Merge, filter, slice, and sort
-• Apply the groupby() function
-• Use multiple methods to perform a function
-• Perform mathematical calculations on columns
+• Jupyter Notebook <br>
+• Read an external CSV file<br>
+• Format a DataFrame column<br>
+• Determine data types of row values<br>
+• Retrieve data from specific columns<br>
+• Merge, filter, slice, and sort<br>
+• Apply the groupby() function<br>
+• Use multiple methods to perform a function<br>
+• Perform mathematical calculations on columns<br>
+<br>
+<br>
+
+### How School Distrist Metrics Changed
+The original metric for the school district summary
+
 

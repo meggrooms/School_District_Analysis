@@ -115,3 +115,19 @@ Thomas High School's original school ranking was #2 of 15. Replacing the scores 
  <BR>
   <BR>
    <BR>
+
+### How does replacing the ninth-grade scores affect the following:
+
+**Math & reading scores by grade**
+     <BR>
+      Originally Thomas High School has an 83.6% average math score and 83.7% reading for the 9th grade tests. These scores have been replaced with NaN, a null value.
+    <BR>
+     <BR>
+**Scores by school spending**
+     <BR>
+Thomas High Schools spends $638 per student, which typically produces an overall passing rate of 91%. THS, however, scores 63%
+<BR>  
+    <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/Scores_per_capita.png">
+ 
+  <img src="https://github.com/meggrooms/School_District_Analysis/blob/main/Resources/Images/spending_per_student.png">
+      
